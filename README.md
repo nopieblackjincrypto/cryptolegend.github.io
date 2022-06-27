@@ -15,4 +15,4 @@ https://linktr.ee/cryptolegendnft
 
 I have released a website where people can own CLT tokens easily, any funds raised from the minted proceeds will be used to add liquidity to the DEX exchange as well as further project development, the minted price on the website can change at any time,
 
-you can be the first to collect your CLT tokens, anyone can get free CLT tokens just by holding an NFT from Crypto Legend.
+You can be the first to collect your CLT tokens, anyone can get free CLT tokens just by holding an NFT from Crypto Legend.
